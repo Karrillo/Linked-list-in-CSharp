@@ -1,0 +1,142 @@
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Ingresado.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Menu_Principal.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Autos.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Trabajo.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Autos.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Borrar.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MAutos.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MIngresado.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MTrabajos.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Trabajo.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Autos.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Borrar.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MAutos.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Menu_Principal.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MIngresado.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MTrabajos.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Trabajo.resources
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Thorai\Downloads\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Autos.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Borrar.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MAutos.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Menu_Principal.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MIngresado.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MTrabajos.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Trabajo.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Borrar.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MIngresado.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Borrar.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MIngresado.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Principal.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Miguel\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Principal.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Principal.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Borrar.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MIngresado.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Desktop\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Principal.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Borrar.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MIngresado.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\Compartivo\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Principal.resources
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Borrar.resources
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MIngresado.resources
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Administrador\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Principal.resources
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_MIngresado.resources
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Carrillo\Desktop\Nueva carpeta\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe.config
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.exe
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\bin\Debug\Proyecto01_ProgramacionIII.pdb
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csprojResolveAssemblyReference.cache
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Consultas.resources
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Ingresado.resources
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Properties.Resources.resources
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.csproj.GenerateResource.Cache
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.ayuda.resources
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Frm_Gestion.resources
+C:\Users\Carrillo\Desktop\Jose Carrillo\Proyecto01_ProgramacionIII\obj\Debug\Proyecto01_ProgramacionIII.Mdi_Principal.resources

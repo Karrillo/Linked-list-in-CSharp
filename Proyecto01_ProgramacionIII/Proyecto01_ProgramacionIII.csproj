@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FBB44D1A-FA7A-4A8D-A77C-D6D073832ABA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proyecto01_ProgramacionIII</RootNamespace>
+    <AssemblyName>Proyecto01_ProgramacionIII</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayuda.Designer.cs">
+      <DependentUpon>ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cls_Conectar.cs" />
+    <Compile Include="Cls_Cliente.cs" />
+    <Compile Include="Cls_Empleado.cs" />
+    <Compile Include="Mdi_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mdi_Principal.Designer.cs">
+      <DependentUpon>Mdi_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Consultas.Designer.cs">
+      <DependentUpon>Frm_Consultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Imetodos.cs" />
+    <Compile Include="Frm_Ingresado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Ingresado.Designer.cs">
+      <DependentUpon>Frm_Ingresado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Gestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Gestion.Designer.cs">
+      <DependentUpon>Frm_Gestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cls_Mis_Autos.cs" />
+    <Compile Include="Cls_Mis_Trabajos.cs" />
+    <Compile Include="Nodo_Auto.cs" />
+    <Compile Include="Nodo_Cliente.cs" />
+    <Compile Include="Nodo_Empleado.cs" />
+    <Compile Include="Cls_Persona.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Nodo_Trabajo.cs" />
+    <EmbeddedResource Include="ayuda.resx">
+      <DependentUpon>ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mdi_Principal.resx">
+      <DependentUpon>Mdi_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Consultas.resx">
+      <DependentUpon>Frm_Consultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Ingresado.resx">
+      <DependentUpon>Frm_Ingresado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Gestion.resx">
+      <DependentUpon>Frm_Gestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
